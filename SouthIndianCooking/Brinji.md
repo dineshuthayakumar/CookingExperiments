@@ -29,7 +29,7 @@
 | Beans | 4 | - |
 | Potato | 1 | - |
 | Cashew | 10 | - |
-| Bread Pieces | 3 Slices | - |
+| Bread Pieces | 3 Slices | Cut into squares after discarding the edges |
 | Salt | 2 tsp | - |  
 
 ## Preparation
@@ -48,4 +48,4 @@
 12. Add salt and mix well.  
 13. Cook on high flame for 15–20 minutes.  
 14. For dum cooking, place on tawa for 10 minutes.  
-15. Garnish with fried bread pieces and coriander leaves.   
+15. Add oil fried bread pieces and cashews.   
