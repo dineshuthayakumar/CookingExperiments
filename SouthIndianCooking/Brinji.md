@@ -8,7 +8,7 @@
 | Name | Quantity | Remarks |
 |------|----------|---------|
 | Basmati Rice / Jeeraga Samba | 1 Cup | Soak 15 minutes |
-| Water | 1:2 to 1:3 ratio | - |
+| Water | 1 Cup | Used for soaking the rice and cooked later |
 | Coconut Milk | 1 Cup | - |
 | Ghee | 4 tbsp | - |
 | Bay Leaf | 1 | - |
@@ -42,8 +42,8 @@
 6. Add turmeric, coriander powder, red chilli powder, garam masala, and saunf powder.  
 7. Add mint and coriander leaves.  
 8. Mix well.  
-9. Add chopped vegetables (carrot, beans, potato).  
-10. Add soaked rice.  
+9. Add boiled chopped vegetables (carrot, beans, potato) with half cup water.  
+10. Add soaked rice and water.  
 11. Add water and coconut milk.  
 12. Add salt and mix well.  
 13. Cook on high flame for 15–20 minutes.  
